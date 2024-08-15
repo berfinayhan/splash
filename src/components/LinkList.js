@@ -18,13 +18,7 @@ const linkItems = [
     flavorText: 'connect with me on ',
     link: 'https://www.linkedin.com/in/berfin-ayhan/',
     linkText: 'linkedin',
-  },
-  // {
-  //   key: 'resume',
-  //   flavorText: 'sneak a peak at my ',
-  //   link: `${process.env.PUBLIC_URL}/turcan_cicek_resume.pdf`,
-  //   linkText: 'resume',
-  // },
+  }
 ];
 
 const linkRender = (linkArr) => {
