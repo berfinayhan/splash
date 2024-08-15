@@ -1,5 +1,6 @@
 {
-  "name": "splashfolio",
+  "name": "splash",
+  "homepage": "https://berfinayhan.github.io/splash",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
