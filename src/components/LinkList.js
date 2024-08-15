@@ -4,27 +4,27 @@ const linkItems = [
   {
     key: 'email',
     flavorText: 'shoot me an email at ',
-    link: 'mailto:htcicek@pm.me',
-    linkText: 'htcicek@pm.me',
+    link: 'ayhanberfin1@gmail.com',
+    linkText: 'ayhanberfin1@gmail.com',
   },
-  {
-    key: 'github',
-    flavorText: 'check out my code on ',
-    link: 'https://github.com/htcicek',
-    linkText: 'github',
-  },
+  // {
+  //   key: 'github',
+  //   flavorText: 'check out my code on ',
+  //   link: 'https://github.com/htcicek',
+  //   linkText: 'github',
+  // },
   {
     key: 'linkedin',
     flavorText: 'connect with me on ',
-    link: 'https://www.linkedin.com/in/htcicek/',
+    link: 'https://www.linkedin.com/in/berfin-ayhan/',
     linkText: 'linkedin',
   },
-  {
-    key: 'resume',
-    flavorText: 'sneak a peak at my ',
-    link: `${process.env.PUBLIC_URL}/turcan_cicek_resume.pdf`,
-    linkText: 'resume',
-  },
+  // {
+  //   key: 'resume',
+  //   flavorText: 'sneak a peak at my ',
+  //   link: `${process.env.PUBLIC_URL}/turcan_cicek_resume.pdf`,
+  //   linkText: 'resume',
+  // },
 ];
 
 const linkRender = (linkArr) => {
