@@ -18,8 +18,8 @@ const TagLine = styled.h3`
 class NameBox extends PureComponent {
   state = {
     tags: [
-      "I'm currently designing freelance @ Gnar",
-      'Ask me about my dogs Falafel, and Tantuni',
+      "I'm currently designing freelance @ The Gnar",
+      'Ask me about my dogs Falafel and Tantuni',
     ],
     currentIdx: 0,
     showTag: true,

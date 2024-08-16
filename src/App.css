@@ -25,7 +25,7 @@ h1, h2, h3, span {
 
 h2 {
   font-size: large;
-  color: #AA3731;
+  color: black;
   margin-bottom: 1.5em;
 }
 
@@ -46,9 +46,13 @@ h1 {
 
 p.closeBracket {
   font-family: monospace;
-  color: #AA3731;
+  color: black;
   display: block;
   position: absolute;
   bottom: 0%;
   left: 50%;
+}
+
+a {
+  color: black
 }
